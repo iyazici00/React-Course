@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "groupId": 1,
+      "userName": "İsmail",
+      "userSurname": "Yazıcı",
+      "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim nesciunt similique itaque voluptates esse consectetur neque beatae voluptate incidunt."
+    },
+    {
+      "id": 2,
+      "groupId": 1,
+      "userName": "Hüseyin",
+      "userSurname": "Akbulut",
+      "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+"desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim nesciunt similique itaque voluptates esse consectetur neque beatae voluptate incidunt."
+    },
+    {
+      "id": 3,
+      "groupId": 3,
+      "userName": "Selahaddin",
+      "userSurname": "Çiftçi",
+      "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+"desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim nesciunt similique itaque voluptates esse consectetur neque beatae voluptate incidunt."
+    },
+    {
+      "id": 4,
+      "groupId": 3,
+      "userName": "Erhan",
+      "userSurname": "Kaya",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+"desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim nesciunt similique itaque voluptates esse consectetur neque beatae voluptate incidunt."
+    },
+    {
+      "id": 5,
+      "groupId": 2,
+      "userName": "Mehmet",
+      "userSurname": "Yılmaz",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHVzZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+"desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim nesciunt similique itaque voluptates esse consectetur neque beatae voluptate incidunt."
+    },
+    {
+      "id": 6,
+      "groupId": 4,
+      "userName": "Ahmet",
+      "userSurname": "Keser",
+      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHVzZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+	"desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim nesciunt similique itaque voluptates esse consectetur neque beatae voluptate incidunt."
+    },
+    {
+      "id": 7,
+      "groupId": 1,
+      "userName": "Ali",
+      "userSurname": "Ak",
+      "image": "https://images.unsplash.com/photo-1639149888905-fb39731f2e6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHVzZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+	"desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim nesciunt similique itaque voluptates esse consectetur neque beatae voluptate incidunt."
+    },
+    {
+      "id": 8,
+      "groupId": 3,
+      "userName": "Veli",
+      "userSurname": "Kara",
+      "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHVzZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim nesciunt similique itaque voluptates esse consectetur neque beatae voluptate incidunt."
+    },
+    {
+      "id": 9,
+      "groupId": 2,
+      "userName": "Eray",
+      "userSurname": "Umut",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHVzZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim nesciunt similique itaque voluptates esse consectetur neque beatae voluptate incidunt."
+    },
+    {
+      "id": 10,
+      "groupId": 4,
+      "userName": "Ömer",
+      "userSurname": "Yılmaz",
+      "image": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fHVzZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim nesciunt similique itaque voluptates esse consectetur neque beatae voluptate incidunt."
+    }
+
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "groupName": "Juniors"
+     
+    },
+    {
+      "id": 2,
+      "groupName": "Seniors"
+     
+    },
+    {
+      "id": 3,
+      "groupName": "Team Leaders"
+     
+    },
+    {
+      "id": 4,
+      "groupName": "Product Owners"
+    
+    }
+  ]
+}
