@@ -1,0 +1,22 @@
+/* div{ 
+    margin-top: 50px; 
+} */
+
+Label{
+    color:#ACB9A2;
+    font-size:  30px;
+}
+#buton:hover{
+    background-color:#FB693C;
+}
+#baslik{
+    font-family: "Rakkas",serif;
+    font-size: 70px;
+    color:#FB693C;
+}
+Form{
+    margin-top: 80px;
+}
+#deneme{
+    font-family: "Rakkas, serif"
+}
