@@ -1,0 +1,19 @@
+#but {
+
+    border-radius: 50px;
+    /* Oval kenarlar için border yarıçapını artırın */
+    background-color: rgb(73, 5, 73);
+    padding: 10px 20px;
+    /* İçeriği düğme boyutuna göre ayarlayın */
+    color: white;
+    transition: background-color 0.5s, color 0.5s;
+    /* Renk değişimine geçiş süresi ekleyin */
+}
+
+#but:hover {
+    background-color: yellow;
+    color: purple;
+    border-radius: 50px;
+    /* Oval kenarlar için border yarıçapını artırın */
+
+}
