@@ -1,0 +1,38 @@
+{
+  "categories": [],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Bohemian Rhapsody",
+      "category_id": 0,
+      "artist": "Queen",
+      "duration": "6:07"
+    },
+    {
+      "id": 2,
+      "title": "Imagine",
+      "category_id": 0,
+      "artist": "John Lennon",
+      "duration": "3:07"
+    },
+    {
+      "id": 3,
+      "title": "Hotel California",
+      "category_id": 0,
+      "artist": "Eagles",
+      "duration": "6:30"
+    }
+  ],
+  "playlist": [
+    {
+      "id": 1,
+       "name":"pop",
+      "song_id": 1
+    },
+    {
+      "id": 2,
+      "name":"pop",
+      "song_id": 3
+    }
+  ]
+}
