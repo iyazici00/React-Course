@@ -1,4 +1,4 @@
-<h1>React ile müzik dinlemek, favori listesi oluşturmak, kullanıcı kaydı ve girişi yapmak gibi özellikleri olan , bu özellikleri local api ile veri çekerek veya apiye veri yazdırarak reduxun action-reducer-component mantığıyla oluşturmuş olduğum websitesi.<h1/>
+<h1>React ile yazmış olduğum, müzik dinlemek, favori listesi oluşturmak, kullanıcı kaydı ve girişi yapmak gibi özellikler bulunan , bu özellikleri local api ile veri çekerek veya apiye veri yazdırarak reduxun action-reducer-component mantığıyla oluşturmuş olduğum websitesi.<h1/>
 
 <br>
 <h1>Navbar</h1>
